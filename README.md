@@ -59,5 +59,9 @@ This app demonstrates full CRUD operations connected to SQL Server.
 ✅ Full CRUD manually coded (Day 3–5)
 
 ✅ SQL SELECT/INSERT/UPDATE/DELETE practice (Day 4–6)
+<img width="1031" height="433" alt="image" src="https://github.com/user-attachments/assets/659be637-49a4-41e4-b0d5-ccf7b809a3dd" />
+<img width="1034" height="425" alt="image" src="https://github.com/user-attachments/assets/22fac12d-1421-4e92-bd94-d160940ab4e8" />
+<img width="1310" height="377" alt="image" src="https://github.com/user-attachments/assets/c274da3a-5904-43bf-b8f4-c04d5a65ea5a" />
+<img width="1342" height="413" alt="image" src="https://github.com/user-attachments/assets/93f4866b-43aa-4156-bb4d-a7de8152cafd" />
 
 ✅ Documentation + schema review (Day 7)
