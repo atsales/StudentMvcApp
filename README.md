@@ -52,6 +52,12 @@ This app demonstrates full CRUD operations connected to SQL Server.
 
 ---
 
-## Next Steps
-- Explore schema constraints (unique Email, non‑null EnrollmentDate).
-- Prepare for Month 2: joins, relationships, and advanced queries.
+## Day 8: Week 1 Recap
+
+✅ StudentMvcApp setup (Day 1–2)
+
+✅ Full CRUD manually coded (Day 3–5)
+
+✅ SQL SELECT/INSERT/UPDATE/DELETE practice (Day 4–6)
+
+✅ Documentation + schema review (Day 7)
